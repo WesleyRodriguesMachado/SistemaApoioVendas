@@ -10,6 +10,7 @@ using System.Windows.Forms;
 
 namespace ApoioVendas.Model
 {
+    //Classe Modelo para os produtos
     public class ModelProdutos
     {
         ControllerProdutos controller = new ControllerProdutos();
